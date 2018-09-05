@@ -1,0 +1,249 @@
+{
+    "numCorrect": 0,
+    "prize": "£1,000",
+    "questionCount": 12,
+    "questions": [
+        {
+            "answers": {
+                "A": "Chicken",
+                "B": "Chalk",
+                "C": "Chewbacca"
+            },
+            "category": "Business",
+            "correct": "A",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "97%",
+                    "B": "2%",
+                    "C": "0%"
+                }
+            },
+            "question": "What does the “C” stand for in the name of the fast food chain KFC?",
+            "questionId": 61208,
+            "questionNumber": 1
+        },
+        {
+            "answers": {
+                "A": "Her marbles",
+                "B": "Her passport",
+                "C": "Her slipper"
+            },
+            "category": "Literature",
+            "correct": "C",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "3%",
+                    "B": "13%",
+                    "C": "83%"
+                }
+            },
+            "question": "In the story of “Cinderella”, what does the title character lose at a ball?",
+            "questionId": 61209,
+            "questionNumber": 2
+        },
+        {
+            "answers": {
+                "A": "Grandmother",
+                "B": "Gardener",
+                "C": "Ex"
+            },
+            "category": "Music",
+            "correct": "C",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "6%",
+                    "B": "2%",
+                    "C": "90%"
+                }
+            },
+            "question": "Little Mix had a 2016 UK number one with “Shout Out to My” who?",
+            "questionId": 61210,
+            "questionNumber": 3
+        },
+        {
+            "answers": {
+                "A": "The Chronicles of Narnia",
+                "B": "The Lord of the Rings",
+                "C": "His Dark Materials"
+            },
+            "category": "Literature",
+            "correct": "B",
+            "prediction": {
+                "answer": "B",
+                "confidence": {
+                    "A": "12%",
+                    "B": "61%",
+                    "C": "25%"
+                }
+            },
+            "question": "Which series of fantasy books features Ents?",
+            "questionId": 61211,
+            "questionNumber": 4
+        },
+        {
+            "answers": {
+                "A": "A tarantula",
+                "B": "A wasp",
+                "C": "A hawk"
+            },
+            "category": "Nature",
+            "correct": "B",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "62%",
+                    "B": "11%",
+                    "C": "26%"
+                }
+            },
+            "question": "What kind of creature is a tarantula hawk?",
+            "questionId": 61213,
+            "questionNumber": 5
+        },
+        {
+            "answers": {
+                "A": "Alligators",
+                "B": "Aluminium",
+                "C": "Garlic"
+            },
+            "category": "Science",
+            "correct": "C",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "0%",
+                    "B": "0%",
+                    "C": "98%"
+                }
+            },
+            "question": "Alliumphobia is a word used to describe the fear of what?",
+            "questionId": 61212,
+            "questionNumber": 6
+        },
+        {
+            "answers": {
+                "A": "Alien life",
+                "B": "Psychic powers",
+                "C": "Time travel"
+            },
+            "category": "History",
+            "correct": "B",
+            "prediction": {
+                "answer": "B",
+                "confidence": {
+                    "A": "4%",
+                    "B": "79%",
+                    "C": "15%"
+                }
+            },
+            "question": "The US Army's Stargate Project investigated which of these phenomena?",
+            "questionId": 61214,
+            "questionNumber": 7
+        },
+        {
+            "answers": {
+                "A": "Matt Smith",
+                "B": "Russell Tovey",
+                "C": "Jack Whitehall"
+            },
+            "category": "TV",
+            "correct": "A",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "40%",
+                    "B": "18%",
+                    "C": "40%"
+                }
+            },
+            "question": "Which of the following actors was almost cast as Will in “The Inbetweeners?”",
+            "questionId": 61215,
+            "questionNumber": 8
+        },
+        {
+            "answers": {
+                "A": "Benjamin Disraeli",
+                "B": "Abraham Lincoln",
+                "C": "William Gladstone"
+            },
+            "category": "History",
+            "correct": "C",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "11%",
+                    "B": "82%",
+                    "C": "6%"
+                }
+            },
+            "question": "A statue of which of these politicians is NOT found in London's Parliament Square?",
+            "questionId": 61216,
+            "questionNumber": 9
+        },
+        {
+            "answers": {
+                "A": "Daniel Middleton",
+                "B": "PewDiePie",
+                "C": "Lilly Singh"
+            },
+            "category": "Tech",
+            "correct": "A",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "1%",
+                    "B": "24%",
+                    "C": "74%"
+                }
+            },
+            "question": "Who finished top of Forbes' 2017 list of the highest paid YouTubers?",
+            "questionId": 61217,
+            "questionNumber": 10
+        },
+        {
+            "answers": {
+                "A": "Japan",
+                "B": "USA",
+                "C": "South Korea"
+            },
+            "category": "Games",
+            "correct": "B",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "71%",
+                    "B": "15%",
+                    "C": "13%"
+                }
+            },
+            "question": "Sega was originally set up in which of these countries?",
+            "questionId": 61219,
+            "questionNumber": 11
+        },
+        {
+            "answers": {
+                "A": "Leonardo DiCaprio",
+                "B": "Russell Crowe",
+                "C": "Kate Winslet"
+            },
+            "category": "Movies",
+            "correct": "B",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "89%",
+                    "B": "8%",
+                    "C": "2%"
+                }
+            },
+            "question": "Which of these actors has never appeared in a movie sequel?",
+            "questionId": 61218,
+            "questionNumber": 12
+        }
+    ],
+    "showId": 7047,
+    "ts": "2018-09-04T20:02:58.643Z"
+}

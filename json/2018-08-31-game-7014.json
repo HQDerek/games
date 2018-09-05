@@ -1,0 +1,249 @@
+{
+    "numCorrect": 0,
+    "prize": "£1,000",
+    "questionCount": 12,
+    "questions": [
+        {
+            "answers": {
+                "A": "Horlicks",
+                "B": "Helium",
+                "C": "Hobnobs"
+            },
+            "category": "Games",
+            "correct": "B",
+            "prediction": {
+                "answer": "B",
+                "confidence": {
+                    "A": "0%",
+                    "B": "99%",
+                    "C": "0%"
+                }
+            },
+            "question": "Which of the following is commonly used to fill balloons?",
+            "questionId": 60886,
+            "questionNumber": 1
+        },
+        {
+            "answers": {
+                "A": "Strawberry Slipper",
+                "B": "Raspberry Ripple",
+                "C": "Blueberry Business"
+            },
+            "category": "Cuisine",
+            "correct": "B",
+            "prediction": {
+                "answer": "B",
+                "confidence": {
+                    "A": "0%",
+                    "B": "99%",
+                    "C": "0%"
+                }
+            },
+            "question": "Which of these is the name of a common ice cream flavour?",
+            "questionId": 60890,
+            "questionNumber": 2
+        },
+        {
+            "answers": {
+                "A": "Soup / Soap / Salvation",
+                "B": "Sun / Sand / Seafood",
+                "C": "Spam / Spuds / Salt"
+            },
+            "category": "History",
+            "correct": "A",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "99%",
+                    "B": "0%",
+                    "C": "0%"
+                }
+            },
+            "question": "Which three S's did The Salvation Army founder believe the charity provided?",
+            "questionId": 60891,
+            "questionNumber": 3
+        },
+        {
+            "answers": {
+                "A": "Egyptian",
+                "B": "Korean",
+                "C": "Greek"
+            },
+            "category": "History",
+            "correct": "B",
+            "prediction": {
+                "answer": "B",
+                "confidence": {
+                    "A": "44%",
+                    "B": "8%",
+                    "C": "47%"
+                }
+            },
+            "question": "Which of these languages is NOT present on The Rosetta Stone?",
+            "questionId": 60892,
+            "questionNumber": 4
+        },
+        {
+            "answers": {
+                "A": "Muirfield",
+                "B": "Royal Birkdale",
+                "C": "Carnoustie"
+            },
+            "category": "Sports",
+            "correct": "B",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "70%",
+                    "B": "17%",
+                    "C": "11%"
+                }
+            },
+            "question": "Which of these golf courses is NOT in Scotland?",
+            "questionId": 60893,
+            "questionNumber": 5
+        },
+        {
+            "answers": {
+                "A": "Ragnarök",
+                "B": "Valhalla",
+                "C": "Midgard"
+            },
+            "category": "Literature",
+            "correct": "B",
+            "prediction": {
+                "answer": "B",
+                "confidence": {
+                    "A": "2%",
+                    "B": "85%",
+                    "C": "11%"
+                }
+            },
+            "question": "In Norse mythology, which of the following is the name of a majestic palace for slain warriors?",
+            "questionId": 60894,
+            "questionNumber": 6
+        },
+        {
+            "answers": {
+                "A": "Bread basket",
+                "B": "Botched brain",
+                "C": "Broken heart"
+            },
+            "category": "Games",
+            "correct": "B",
+            "prediction": {
+                "answer": "B",
+                "confidence": {
+                    "A": "42%",
+                    "B": "0%",
+                    "C": "57%"
+                }
+            },
+            "question": "Which of these is NOT a name of an “ailment” in the Operation board game?",
+            "questionId": 60895,
+            "questionNumber": 7
+        },
+        {
+            "answers": {
+                "A": "Zach King",
+                "B": "Reggie Couz",
+                "C": "Jérôme Jarre"
+            },
+            "category": "Entertainment",
+            "correct": "A",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "99%",
+                    "B": "0%",
+                    "C": "0%"
+                }
+            },
+            "question": "Which of these internet stars found fame making “Magic Vines”?",
+            "questionId": 60898,
+            "questionNumber": 8
+        },
+        {
+            "answers": {
+                "A": "A Room With a View",
+                "B": "A Room of One's Own",
+                "C": "Room at the Top"
+            },
+            "category": "Literature",
+            "correct": "B",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "4%",
+                    "B": "3%",
+                    "C": "92%"
+                }
+            },
+            "question": "Which of these books is non-fiction?",
+            "questionId": 60901,
+            "questionNumber": 9
+        },
+        {
+            "answers": {
+                "A": "Yoko Ono",
+                "B": "Twiggy",
+                "C": "Mia Farrow"
+            },
+            "category": "Entertainment",
+            "correct": "A",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "52%",
+                    "B": "24%",
+                    "C": "22%"
+                }
+            },
+            "question": "In the 1960s, who was married to an avant-garde composer as well as an American movie producer?",
+            "questionId": 60900,
+            "questionNumber": 10
+        },
+        {
+            "answers": {
+                "A": "Duke Ellington",
+                "B": "Miles Davis",
+                "C": "John Coltrane"
+            },
+            "category": "Music",
+            "correct": "C",
+            "prediction": {
+                "answer": "C",
+                "confidence": {
+                    "A": "13%",
+                    "B": "13%",
+                    "C": "73%"
+                }
+            },
+            "question": "Which of these musicians is worshipped as a saint in a church which bears his name?",
+            "questionId": 60896,
+            "questionNumber": 11
+        },
+        {
+            "answers": {
+                "A": "Scary Movie 3",
+                "B": "Jurassic Park",
+                "C": "The Birds"
+            },
+            "category": "Movies",
+            "correct": "C",
+            "prediction": {
+                "answer": "A",
+                "confidence": {
+                    "A": "71%",
+                    "B": "17%",
+                    "C": "11%"
+                }
+            },
+            "question": "Of these movies, which has the most mistakes according to moviemistakes.com?",
+            "questionId": 60899,
+            "questionNumber": 12
+        }
+    ],
+    "showId": 7014,
+    "ts": "2018-08-31T19:59:25.433Z"
+}
